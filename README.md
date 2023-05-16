@@ -1,5 +1,8 @@
 # team24
 
+- [Eugen](https://andreibakhtinov.github.io/team24/Eugen.html)
+- [Yana](https://andreibakhtinov.github.io/team24/yana.html)
+- [Artem](https://andreibakhtinov.github.io/team24/artem1.html)
 - [Leon](https://andreibakhtinov.github.io/team24/Leon.html)
 - [Lytvyn](https://andreibakhtinov.github.io/team24/lytvyn.html)
 - [AlexandrStopkin](https://andreibakhtinov.github.io/team24/Stopkin.html)
